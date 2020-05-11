@@ -1,0 +1,40 @@
+body{
+    background-image: url('https://img.freepik.com/free-vector/abstract-blue-geometric-shapes-background_1035-17545.jpg?size=626&ext=jpg');
+    background-size: 100vh auto;
+    height: 100vh;
+    font-family: arial;
+  }
+  
+  .menu{
+    background-color: white;
+    
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a{
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  .site-title{
+    text-align: center;
+    color: darkblue;
+  }
+  
+  .site-subtitle{
+    text-align: center;
+    font-style: italic;
+  }
+  
